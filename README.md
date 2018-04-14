@@ -5,6 +5,7 @@ Board class - which is the map of the game. The map of the game is like a graph 
 Player
 Board cell
 blue, yellow, purple, ... cells are inherited from board cell
+//
 Dice
 .
 .
